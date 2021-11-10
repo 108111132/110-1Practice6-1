@@ -7,10 +7,12 @@
 // </自動產生的>
 //------------------------------------------------------------------------------
 
-namespace _110_1Practice6_1 {
+namespace _110_1Practice6_1
+{
 
 
-    public partial class CheckBox {
+    public partial class CheckBox
+    {
 
         /// <summary>
         /// form1 控制項。
